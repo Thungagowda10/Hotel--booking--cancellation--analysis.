@@ -49,8 +49,8 @@ hotel booking cancelation/
 ## Executive Summary of Findings
 
 ### 1. Overall Cancellation Scale
-- **Total Bookings Analyzed:** 119,390
-- **Total Cancellations:** 44,224
+- **Total Bookings Analyzed:** 15,000
+- **Total Cancellations:** 5,556
 - **Global Cancellation Rate:** 37.04%
 - **Hotel Disparity:** City Hotels suffer a cancellation rate of **41.73%**, compared to **27.76%** for Resort Hotels.
 
