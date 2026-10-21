@@ -1,0 +1,16 @@
+{
+    "total_bookings": 15000,
+    "cancellations": 5556,
+    "cancel_rate": "37.04%",
+    "city_hotel_cancel_rate": "41.73%",
+    "resort_hotel_cancel_rate": "27.76%",
+    "rf_accuracy": "82.16%",
+    "rf_roc_auc": "0.8932",
+    "top_features": [
+        "deposit_type_Non Refund",
+        "lead_time",
+        "adr",
+        "total_of_special_requests",
+        "previous_cancellations"
+    ]
+}
